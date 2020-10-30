@@ -28,6 +28,8 @@ public class PBO10K10119918Latihan27HurufBesarHurufKecil {
 
         System.out.print("Masukkan kalimat : ");
         kalimat = scanner.nextLine();
+        
+        System.out.println();
 
         kalimatHurufBesar = kalimat.toUpperCase();
         kalimatHurufKecil = kalimat.toLowerCase();
